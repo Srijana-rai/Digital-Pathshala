@@ -174,9 +174,7 @@ Contributions, issues, and feature requests are welcome. Feel free to open an is
 
 ---
 
-## 📄 License
 
-No license has been specified for this project yet. If you plan to share it publicly, consider adding one (e.g., the [MIT License](https://opensource.org/licenses/MIT)).
 
 ---
 
